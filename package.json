@@ -68,7 +68,7 @@
     "jquery-ui-dist": "^1.12.1",
     "jquery-unveil": "^1.3.2",
     "jquery-validation": "^1.19.3",
-    "js-cookie": "^2.2.1",
+    "js-cookie": "^3.0.1",
     "jsrender": "0.9.88",
     "lib-jitsi-meet-dist": "^2.1.5",
     "markdown-it": "^12.1.0",
